@@ -1,9 +1,0 @@
-diff a/lib/config.php b/lib/config.php	(rejected hunks)
-@@ -17,6 +17,7 @@
- +<<<<<<< HEAD
- +define('POST_EXCERPT_LENGTH', 40); // length in words for excerpt_length filter (ref: http://codex.wordpress.org/Plugin_API/Filter_Reference/excerpt_length)
- +=======
-+ define('POST_EXCERPT_LENGTH', 40); // words
- +>>>>>>> Comment config.php excerpt length is in words
-  
-  /**
